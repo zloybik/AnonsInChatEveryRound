@@ -7,3 +7,5 @@ Just change message in plugin and plugin is done!
 How to looks in game:
 
 ![image](https://github.com/zloybik/AnonsInChatEveryRound/assets/106350231/7ac3d6e5-ad17-40a3-8607-008246179988)
+
+Tested in sourcemod 1.7.3!!!
